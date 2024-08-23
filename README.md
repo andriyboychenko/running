@@ -5,7 +5,7 @@ While running I can think on some software bug 😀 or just enjoy nature or city
 
 ❗ It's important to consult a sports doctor before starting, especially if you're over 40, and avoid running when sick or injured.
 
-You can copy this markdown to you obsidian or another markdown editor for your convencince 
+You can copy this markdown to your [obsidian](https://obsidian.md/) or another markdown editor for your convencince 
 
 #### Week 1 📅 Preparation
 - [ ] **Tuesday:** 5 x 2 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
