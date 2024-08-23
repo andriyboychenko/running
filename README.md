@@ -5,25 +5,27 @@ While running I can think on some software bug 😀 or just enjoy nature or city
 
 ❗ It's important to consult a sports doctor before starting, especially if you're over 40, and avoid running when sick or injured.
 
+You can copy this markdown to you obsidian or another markdown editor for your convencince 
+
 #### Week 1 📅 Preparation
-- [x] **Tuesday:** 5 x 2 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Thursday:** 3 x 3 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Saturday:** 2 x 5 ⏱ min running 🏃‍♂️🏃‍♀️ with 5 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Tuesday:** 5 x 2 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Thursday:** 3 x 3 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Saturday:** 2 x 5 ⏱ min running 🏃‍♂️🏃‍♀️ with 5 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
 
 #### Week 2 📅 Starting Easy
-- [x] **Tuesday:** 5 x 3 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Thursday:** 2 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Saturday:** 3 x 5 ⏱ min running 🏃‍♂️🏃‍♀️ with 5 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Tuesday:** 5 x 3 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Thursday:** 2 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Saturday:** 3 x 5 ⏱ min running 🏃‍♂️🏃‍♀️ with 5 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
 
 #### Week 3 📅 First Progress
-- [x] **Tuesday:** 5 x 4 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Thursday:** 3 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Tuesday:** 5 x 4 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Thursday:** 3 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
 - [ ] **Saturday:** 2 x 10 ⏱ min running 🏃‍♂️🏃‍♀️ with 5 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
 
 #### Week 4 📅 Intermediate Goal: Run 15 min without interruption
 - [ ] **Tuesday:** 2 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 2 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Thursday:** 2 x 8 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
-- [x] **Saturday:** 15 ⏱ min running 🏃‍♂️🏃‍♀️ 
+- [ ] **Thursday:** 2 x 8 ⏱ min running 🏃‍♂️🏃‍♀️ with 4 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
+- [ ] **Saturday:** 15 ⏱ min running 🏃‍♂️🏃‍♀️ 
 
 #### Week 5 📅 Maintain the Rhythm
 - [ ] **Tuesday:** 3 x 6 ⏱ min running 🏃‍♂️🏃‍♀️ with 3 ⏱ min walking 🚶‍♀️🚶‍♂️ after each sequence
